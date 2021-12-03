@@ -17,7 +17,8 @@
     "id": "3",
     "category_name": "Digital Locker",
     "category_icon": "https:\/\/raw.githubusercontent.com\/appssmart\/api\/main\/digital_seva\/img\/digitallocker.png",
-    "is_active": "1"
+    "is_active": "1",
+    "url":"google.com"
   },
   {
     "id": "4",
